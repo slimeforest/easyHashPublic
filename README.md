@@ -1,0 +1,2 @@
+# easyHash Privacy Policy
+EasyHash is designed with a strong emphasis on user privacy. The app neither collects, stores, nor transmits any personal or usage data. All file hashing and verification processes occur strictly within your device and any related data is purged once the app is terminated. While EasyHash itself does not accumulate any data, please note that, if you opt into Apple's system analytics, Apple might gather standard system data. We have no control over or access to this data.
